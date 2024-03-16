@@ -72,7 +72,7 @@ const Projects = () => {
                     Fibonacci's Sequence
                     </h1>
                     <p className="my-3">
-                    En este proyecto de JavaScript, aproveché el poder de TypeScript para crear una fórmula de secuencia de Fibonacci. 📈 luego di vida a nlosdatos usando Chart.js, tejiendo un vibrante tapiz de visualizaciones. 🎨
+                    En este proyecto de JavaScript, aproveché el poder de TypeScript para crear una fórmula de secuencia de Fibonacci. 📈 luego di vida a los datos usando Chart.js, tejiendo un vibrante tapiz de visualizaciones. 🎨
                     <br />
                     ¡Siéntete libre de explorar las maravillas de Fibonacci que hemos creado! 🚀                    </p>
                     <br />
