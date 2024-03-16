@@ -10,7 +10,7 @@ const Projects = () => {
                 Mis Proyectos
             </h1>
             <p className="my-9 text-xl italic leading-none tracking-tight text-white md:text-3xl lg:text-4xl  ms-5 font-italic">
-                He desarrollado multiples proyectos, donde muestro mis habilidades tecnicas y mis buenas practicas.
+                He desarrollado multiples proyectos, donde muestro mis habilidades técnicas y mis buenas practicas.
             </p>
             <ul  className="mb-6 text-lg font-normal text-white lg:text-xl sm:px-16 xl:px-48 mt-3">
                 
@@ -19,7 +19,7 @@ const Projects = () => {
                         Infort International's Web App
                     </h1>
                     <p className="my-3 p-3">
-                    Estuve a cargo del diseño, planeacion, programacion, alojamiento en la nube, manejo del SEO y puesta en funcionamiento de la Pagina Web de Infort International. 🌐
+                    Estuve a cargo del diseño, planeación, programación, alojamiento en la nube, manejo del SEO y puesta en funcionamiento de la Página Web de Infort International. 🌐
                     <br /><br />
                     Para este proyecto, utillice: <br /><br />
                     -React.js + React Router<br />
