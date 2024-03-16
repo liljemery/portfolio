@@ -13,7 +13,7 @@ const Services = () => {
             ¿Qué puedo ofrecer?
         </h2>
         <div className="container mx-auto lg:flex flex-wrap items-center">
-            <div className="block lg:max-w-md p-11 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 my-3 mx-auto">
+            <div className="block lg:max-w-lg p-11 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 my-3 mx-auto">
                 <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 ">
                     Web Development
                 </h5>
@@ -21,7 +21,7 @@ const Services = () => {
                     Desarrollo Web del Front y Back End con estandares de alta calidad y las ultimas tecnologías.
                 </p>
             </div>
-            <div className="block lg:max-w-md p-11 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 my-3 mx-auto">
+            <div className="block lg:max-w-lg p-11 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 my-3 mx-auto">
                 <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 ">
                     Cloud Native Environments
                 </h5>
@@ -29,7 +29,7 @@ const Services = () => {
                     Me siento cómodo trabajando con entornos nativos en la nube, asi que oriento todos mis proyectos independientes a esta tendencia.
                 </p>
             </div>
-            <div className="block lg:max-w-md p-11 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 my-3 mx-auto">
+            <div className="block lg:max-w-lg p-11 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 my-3 mx-auto">
                 <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 ">
                     SEO Management
                 </h5>
@@ -37,7 +37,7 @@ const Services = () => {
                     Optimización del SEO de las paginas Web para obtener el mayor flujo de clientes en las paginas. 
                 </p>
             </div>
-            <div className="block lg:max-w-md p-11 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 my-3 mx-auto">
+            <div className="block lg:max-w-lg p-11 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 my-3 mx-auto">
                 <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 ">
                     Performance Optimization
                 </h5>
@@ -45,7 +45,7 @@ const Services = () => {
                     Optimización del desempeño de la Web para lograr tiempos de cargas mas rapidos.
                 </p>
             </div>
-            <div className="block lg:max-w-md p-11 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 my-3 mx-auto">
+            <div className="block lg:max-w-lg p-11 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 my-3 mx-auto">
                 <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 ">
                     Serverless Environments
                 </h5>
@@ -53,7 +53,7 @@ const Services = () => {
                     Tengo experiencia con las funciones serverless, asegurandome que estas ejecuten las actividades necesarias sin tener que disponer de un servidor
                 </p>
             </div>
-            <div className="block lg:max-w-md p-11 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 my-3 mx-auto">
+            <div className="block lg:max-w-lg p-11 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 my-3 mx-auto">
                 <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 ">
                     Data Visualization
                 </h5>
