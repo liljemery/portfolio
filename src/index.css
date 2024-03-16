@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body {
+    scroll-behavior: smooth;
+    overflow-x: hidden;
+    }
+.overflow-scroll::-webkit-scrollbar {
+    display: none;
+}
+
+#ptcr{
+    filter: drop-shadow(0 0 0.10rem white);
+}
