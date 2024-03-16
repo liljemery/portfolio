@@ -13,10 +13,10 @@ const AboutMe = () => {
             ¿Quien soy?
         </h2>
         <p className="animate__animated .box mb-6 text-lg font-normal text-gray-500 lg:text-xl sm:px-16 xl:px-48 dark:text-gray-400 mt-3">
-            Soy Jeremy Inoa Fortuna, un apasionado de la tecnología y el aprendizaje continuo. Actualmente estudia Ingeniería del Software y trabaja como desarrollador para Infort Internacional.
+            Soy Jeremy Inoa Fortuna, un apasionado de la tecnología y el aprendizaje continuo. Actualmente estudio Ingeniería del Software y trabajo como desarrollador para Infort Internacional.
         </p>
         <p className="mb-6 text-lg font-normal text-gray-500 lg:text-xl sm:px-16 xl:px-48 dark:text-gray-400 ">
-            Soy apasionada, autodidacta y siempre dispuesta a aprender. Mi enfoque en la calidad del código y la resolución de problemas me convierte en un activo valioso para cualquier equipo. Me encanta colaborar y compartir conocimientos con mis compañeros.
+            Soy apasionado, autodidacta y siempre dispuesto a aprender. Mi enfoque en la calidad del código y la resolución de problemas me convierte en un activo valioso para cualquier equipo. Me encanta colaborar y compartir conocimientos con mis compañeros.
         </p>
         <p className="mb-6 text-lg font-normal text-gray-500 lg:text-xl sm:px-16 xl:px-48 dark:text-gray-400">
             Estoy constantemente aprendiendo y desarrollándome iniciando proyectos y leyendo sobre otros proyectos que involucran cosas que sé que me harán crecer profesionalmente.

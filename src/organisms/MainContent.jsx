@@ -10,7 +10,7 @@ const MainContent = () => {
     <section className="my-5">
         <div id="nameWrapper" className="py-8 px-4 mx-auto max-w-screen-xl text-center lg:py-16">
             <h1 className="mb-4 text-4xl font-extrabold tracking-tight leading-none text-white md:text-5xl lg:text-6xl antialiased">Hola, soy Jeremy Inoa Fortuna.</h1>
-            <p className="my-8 text-lg text-white font-bold lg:text-xl sm:px-16 lg:px-30">Soy Full Stack Developer, apasionado de la tecnología y amante de las interacciones donde intercambiamos conocimientos.</p>
+            <p className="my-8 text-lg text-white font-bold lg:text-xl sm:px-16 lg:px-30">Soy un Full Stack Developer, apasionado de la tecnología y amante de las interacciones donde intercambiamos conocimientos.</p>
             <div className="flex flex-col space-y-4 sm:flex-row sm:justify-center sm:space-y-0">
                 <a href="https://www.github.com/liljemery" target="_blank" className="inline-flex justify-center items-center py-3 px-5 text-base font-medium text-center text-white rounded-lg bg-gray-700 hover:bg-gray-600 focus:ring-4 focus:ring-blue-300">
                     <svg className="w-6 h-6 text-white" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 24 24">
