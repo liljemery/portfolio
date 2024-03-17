@@ -5,7 +5,7 @@ import Myself from '../assets/mePic.png'
 const MainContent = () => {
     return (
     <>
-    <div id="main" className="flex items-center justify-around flex-row-reverse h-screen bg-red-600">  
+    <div id="main" className="flex items-center justify-around flex-row-reverse h-screen bg-red-600 mt-12">  
     <img src={Myself} className="hidden sm:block w-full h-auto max-w-sm rounded-lg me-5 animate__animated animate__fadeInLeft" id="ptcr" alt="Mi foto"/>
     <section className="my-5">
         <div id="nameWrapper" className="py-8 px-4 mx-auto max-w-screen-xl text-center lg:py-16">
