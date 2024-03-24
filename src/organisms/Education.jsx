@@ -24,7 +24,7 @@ const Education = () => {
                 </h2>
                 <h3>
                     Talendig<br />
-                    <span className='text-sm'>Septiembre 2022 - Diciembre 2022</span> 
+                    <span className='text-sm' >Septiembre 2022 - Diciembre 2022</span> 
                 </h3>
             </li>
             <li className="my-5">
@@ -32,7 +32,8 @@ const Education = () => {
                     Ingenieria Mecatrónica
                 </h2>
                 <h3>
-                    Insituto Tecnológico de Santo Domingo Agosto 2020 - Septiembre 2022
+                    Insituto Tecnológico de Santo Domingo <br />
+                    <span className='text-sm'>Agosto 2020 - Septiembre 2022</span>
                 </h3>
             </li>
         </ul>
