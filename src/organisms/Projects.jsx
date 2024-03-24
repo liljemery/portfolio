@@ -52,7 +52,7 @@ const Projects = () => {
                         Visitar el proyecto
                     </a>
                 </li>
-                <br/>
+                <br/><br/>
                 <li className="my-6">
                     <h1 className="font-bold">
                     Full Stack Project Made in React + Express + MongoDB 🚀
@@ -78,6 +78,32 @@ const Projects = () => {
                     <br />
                     <a className='bg-red-300 hover:bg-red-200 text-white font-bold py-2 px-4 rounded mx-auto' 
                     href="https://codepen.io/liljemeryworks/details/jORNdvj" target="_blank">
+                        Visitar el proyecto
+                    </a>
+                </li>
+                <br/>
+                <li className="my-6 ">
+                    <h1 className="font-bold p-3 ">
+                        NexBot: Transformando la Asistencia Financiera 🚀 
+                    </h1>
+                    <p className="my-3 p-3">
+                        NexBot es un proyecto personal que llevo con pasión y dedicación. Se trata de una plataforma innovadora de asistencia financiera diseñada para simplificar la forma en que las personas interactúan con la información financiera.
+                        <br/><br/>
+                        💡 Tecnología de Vanguardia:
+                        <br/>
+                        Utilizando tecnologías de punta como React, Tailwind CSS y Firebase, creé una experiencia de usuario intuitiva y atractiva. Además, integré Firebase Hosting y Firebase Auth para garantizar la seguridad y escalabilidad de nuestra plataforma.
+                        <br/><br/>
+                        🤖 IA Avanzada:
+                        <br/>
+                        Destacando en el corazón de NexBot está Gemini-Pro, nuestro modelo de inteligencia artificial. Basado en el poderoso API de Gemini, Gemini permite a los usuarios interactuar de manera natural con la plataforma, proporcionando respuestas rápidas y precisas a consultas financieras.
+                        <br/><br/>
+                        💼 Impacto Positivo:
+                        <br />
+                        Estoy emocionado por el potencial de NexBot para transformar la vida financiera de las personas. Si bien , el proyecto no está aún terminado, el objetivo es brindar una solución innovadora que haga que la información financiera sea más accesible y comprensible para todos, a la vez aprender en el camino tanto de finanzas, como de inteligencias artificiales.
+                    </p>
+                    <br/>
+                    <a className='bg-red-300 hover:bg-red-200 text-white font-bold py-2 px-4 rounded mx-auto'
+                    href="https://financit.web.app/" target="_blank">
                         Visitar el proyecto
                     </a>
                 </li>
